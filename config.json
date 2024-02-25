@@ -1,0 +1,22 @@
+{
+ "ticketCategoryID": "931826884579303445",
+ "ticketNumber": 2,
+ "BACKGROUND": "https://cdn.discordapp.com/attachments/1001968304941965382/1209521110375469096/Picsart_24-02-20_18-24-39-925.jpg?ex=65e73950&is=65d4c450&hm=b5f1037166b2d48c42b48f4a2ba5d671e4c3e942f64e410e00b607eb5a9db9fb&",
+ "SECTIONS": [
+  {
+   "name": "الدعم الفني",
+   "roleID": "1209523058100928543",
+   "image": "https://cdn.discordapp.com/attachments/936050034238193726/1211309739263262811/Picsart_24-02-20_18-27-56-218.jpg?ex=65edbb1a&is=65db461a&hm=a2c8beab2e23d86890d2366cd1d27c0934ff388d40dbdf1b1e4a42affd2e9e93&"
+  },
+  {
+   "name": "الشراء",
+   "roleID": "1209523058100928543",
+   "image": "https://cdn.discordapp.com/attachments/936050034238193726/1211309645365379102/Picsart_24-02-20_18-27-30-800.jpg?ex=65edbb04&is=65db4604&hm=9c2d8d53509ca1957f61a06fcda7163a382bf1d80847758801d13a7e07d3d8db&"
+  },
+  {
+   "name": "التعويض",
+   "roleID": "1209523058100928543",
+   "image": "https://cdn.discordapp.com/attachments/936050034238193726/1211309667909632071/Picsart_24-02-20_18-27-06-063.jpg?ex=65edbb09&is=65db4609&hm=6a0d3f4cbade50b7fe141c184b77c840502e3d7a7139776202aa3cbc38e58862&"
+  }
+ ]
+}
